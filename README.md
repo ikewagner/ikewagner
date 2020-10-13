@@ -4,3 +4,8 @@
 |--|--|
 |  |  |
 
+![enter image description here](https://github-readme-stats.vercel.app/api?username=ikewagner&show_icons=true&theme=radical)
+
+
+# Sobre
+
