@@ -9,3 +9,10 @@
 
 # Sobre
 
+-   📍 From RS living in Caxias do Sul 
+-   💻 Experience with Python, Flutter, PHP, HTML, CSS.
+-   🌈 Learning programming
+
+## QRCODE
+
+![enter image description here](https://dyn-qrcode.vercel.app/api?url=https://github.com/ikewagner)
