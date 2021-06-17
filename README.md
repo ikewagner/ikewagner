@@ -11,7 +11,7 @@
 # Sobre
 
 -   📍 From RS living in Caxias do Sul 
--   💻 Experience with Python, Flutter, PHP, HTML, CSS.
+-   💻 Experience with Python, Flutter, HTML, CSS e JS.
 -   🌈 Learning programming
 
 ## QRCODE
