@@ -5,7 +5,7 @@
 
 # DESENVOLVEDOR FRONT-END
 
-<img alt="Coding" src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" align="right" height="280" align="right"/>
+<img alt="Coding" src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" align="right" height="270" align="right"/>
 
 
 ![enter image description here](https://github-readme-stats.vercel.app/api/top-langs/?username=ikewagner&&langs_count=8&layout=compact&theme=dracula)
