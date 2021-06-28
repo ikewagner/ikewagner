@@ -4,11 +4,13 @@
 <img alt="Coding" src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" align="right" height="250" align="right"/>
 
 
-|  ![enter image description here](https://github-readme-stats.vercel.app/api/top-langs/?username=ikewagner&layout=compact)|  |
-|--|--|
-|  |  |
+|  ![enter image description here](https://github-readme-stats.vercel.app/api/top-langs/?username=ikewagner&&langs_count=8&layout=compact&theme=dracula)
+
+![enter image description here](ttps://github-readme-streak-stats.herokuapp.com/?user=ikewagner&theme=dracula&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10)
 
 ![enter image description here](https://github-readme-stats.vercel.app/api?username=ikewagner&show_icons=true&theme=radical)
+
+https://github-readme-streak-stats.herokuapp.com/?user=ikewagner&theme=dracula&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10
 
 
 # Sobre
