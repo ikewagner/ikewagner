@@ -17,7 +17,7 @@
 -   💻 Experience with Python, Flutter, HTML, CSS e JS.
 -   🌈 Learning programming
 
-## QRCODE
+## Mais 
 
 ![enter image description here](https://dyn-qrcode.vercel.app/api?url=https://github.com/ikewagner)
 
