@@ -5,7 +5,7 @@
 
 # DESENVOLVEDOR FRONT-END
 
-<img alt="Coding" src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" align="right" height="270" align="right"/>
+<img alt="Coding" src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" align="right" height="250" align="right"/>
 <br>
 
 
