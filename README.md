@@ -8,12 +8,10 @@
 
 
 
-
 # DESENVOLVEDOR FRONT-END
 
 <img alt="Coding" src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" align="right" height="250" align="right"/>
 <br>
-
 
 
 ![enter image description here](https://github-readme-stats.vercel.app/api/top-langs/?username=ikewagner&&langs_count=8&layout=compact&theme=dracula)
@@ -22,11 +20,10 @@
 ![enter image description here](https://github-readme-stats.vercel.app/api?username=ikewagner&show_icons=true&theme=dracula)
 
 
-<p align="left">
+
+<p>
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikewagner&theme=dracula&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" alt="ikewagner" />
 </p><br>
-
-
 
 # Sobre
 
@@ -38,4 +35,4 @@
 ## Mais 
 
 ![enter image description here](https://dyn-qrcode.vercel.app/api?url=https://github.com/ikewagner)
-![enter image description here]<p>(https://spotify-github-profile.vercel.app/api/view?uid=wagner.ike&cover_image=true&theme=default)</p>
+
