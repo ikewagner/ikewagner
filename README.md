@@ -41,6 +41,6 @@
 
 
 [<img src="https://readme-spotify-status-sooty.vercel.app/api/run-spotify-status" alt="Spotify profile" width="400" align="left"/>](https://open.spotify.com/user/wagner.ike)
-</br>
+<br>
 
 ## Thanks for visiting! 😊
