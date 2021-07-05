@@ -36,3 +36,4 @@
 
 ![enter image description here](https://dyn-qrcode.vercel.app/api?url=https://github.com/ikewagner)
 
+![](https://komarev.com/ghpvc/?username=ikewagner&color=blue)
