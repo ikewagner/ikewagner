@@ -38,4 +38,4 @@
 ## Mais 
 
 ![enter image description here](https://dyn-qrcode.vercel.app/api?url=https://github.com/ikewagner)
-<img alt="Spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=wagner.ike&cover_image=true&theme=default" align="right" height="280" />
+![enter image description here]<p>(https://spotify-github-profile.vercel.app/api/view?uid=wagner.ike&cover_image=true&theme=default)</p>
