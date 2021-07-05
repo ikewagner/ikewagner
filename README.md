@@ -40,7 +40,7 @@
 ![enter image description here](https://dyn-qrcode.vercel.app/api?url=https://github.com/ikewagner)
 
 
-[<img src="https://readme-spotify-status-sooty.vercel.app/api/run-spotify-status" alt="Spotify profile" width="500" align="center"/>](https://open.spotify.com/user/wagner.ike)
+[<img src="https://spotify-status.vercel.app/api/run-spotify-status" alt="s4nx Playing Now" width="380" />](https://open.spotify.com/playlist/1Mbk3kARL6mes6KNfv16as)
 <br>
 
 
