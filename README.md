@@ -43,6 +43,6 @@
 [<img src="https://spotify-status.vercel.app/api/run-spotify-status" alt="s4nx Playing Now" width="380" />](https://open.spotify.com/playlist/21eCzSwPSO6pWg88PPBvWo?si=631ec8cc5bfb49b6)
 <br>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wagner.ike&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wagner.ike&cover_image=true&theme=default)]
 
 
