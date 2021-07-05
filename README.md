@@ -39,5 +39,4 @@
 
 ![enter image description here](https://dyn-qrcode.vercel.app/api?url=https://github.com/ikewagner)
 
-<a align="right">![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wagner.ike&cover_image=true&theme=default)</a>
-<img alt="Coding" src="https://spotify-github-profile.vercel.app/api/view?uid=wagner.ike&cover_image=true&theme=default" align="right" height="250" align="right"/>
+<img alt="Spotify" src="https://spotify-github-profile.vercel.app/api/view?uid=wagner.ike&cover_image=true&theme=default" align="right" height="450" align="right"/>
