@@ -44,4 +44,4 @@
 </div>
 
 
-
+<a>![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wagner.ike&cover_image=true&theme=default)</a>
