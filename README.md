@@ -25,6 +25,11 @@
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikewagner&theme=dracula&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" alt="ikewagner" />
 </p><br>
 
+## **What I'm hearing right now 🎵**
+
+[![Spotify](https://spotify-play-now-ibf52k734-hlfdev.vercel.app/api/spotify)](https://open.spotify.com/user/wagner.ike)
+
+
 # Sobre
 
 -   👨‍Henrique Wagner
@@ -37,3 +42,5 @@
 ![enter image description here](https://dyn-qrcode.vercel.app/api?url=https://github.com/ikewagner)
 
 ![](https://komarev.com/ghpvc/?username=ikewagner&color=blue)
+
+
