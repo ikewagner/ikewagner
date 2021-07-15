@@ -25,10 +25,6 @@
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikewagner&theme=dracula&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" alt="ikewagner" />
 </p><br>
 
-## **O que estou ouvindo agora🎵**
-
-[![Spotify](https://spotify-play-now-ibf52k734-hlfdev.vercel.app/api/spotify)](https://open.spotify.com/user/wagner.ike?si=qTbJ9yMuRg-9rVk-O0WV-w&dl_branch=1)
-
 
 # Sobre
 
