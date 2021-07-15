@@ -27,7 +27,7 @@
 
 ## **What I'm hearing right now 🎵**
 
-[![Spotify](https://spotify-play-now-ibf52k734-hlfdev.vercel.app/api/spotify)](https://open.spotify.com/user/wagner.ike)
+[![Spotify](https://spotify-play-now-ibf52k734-hlfdev.vercel.app/api/spotify)](https://open.spotify.com/user/wagner.ike?si=qTbJ9yMuRg-9rVk-O0WV-w&dl_branch=1)
 
 
 # Sobre
