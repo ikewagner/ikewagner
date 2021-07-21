@@ -25,9 +25,6 @@
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikewagner&theme=dracula&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" alt="ikewagner" />
 </p><br>
 
-# Programas que utilizo 
-
-![VSCode](https://img.shields.io/badge/-VSCode-0085D1?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 # Sobre
 
