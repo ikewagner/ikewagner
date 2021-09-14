@@ -8,7 +8,7 @@
 
 
 
-# DESENVOLVEDOR FRONT-END
+# DESENVOLVEDOR
 
 <img alt="Coding" src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" align="right" height="250" align="right"/>
 <br>
@@ -30,7 +30,7 @@
 
 -   👨‍Henrique Wagner
 -   📍 From RS living in Caxias do Sul 
--   💻 Experience with Python, Flutter, HTML, CSS e JS.
+-   💻 Experience with  C# , C++ ,Python, Flutter, HTML, CSS e JS.
 -   🌈 I’m currently learning *ReactJS*
 
 ## Mais 
