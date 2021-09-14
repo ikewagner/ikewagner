@@ -6,10 +6,6 @@
 <a href="https://twitter.com/ikee_dev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>
 </a>
 
-
-
-# DESENVOLVEDOR
-
 <img alt="Coding" src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" align="right" height="250" align="right"/>
 <br>
 
@@ -21,9 +17,7 @@
 
 
 
-<p>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=ikewagner&theme=dracula&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" alt="ikewagner" />
-</p><br>
+
 
 
 # Sobre
