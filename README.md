@@ -23,7 +23,7 @@
 
 -   👨‍Henrique Wagner
 -   📍 From RS living in Caxias do Sul 
--   💻 Experience with  C#, C++, Python, Java, Flutter, HTML/CSS e JavaScript, MVC, Next.js, bootstrap, Visual Studio, SQL Server, Tailwind css e Trello.
+-   💻 Experience with  C#, C++, Python, Java, Flutter, HTML/CSS, JavaScript, MVC, Next.js, bootstrap, Visual Studio, SQL Server, Tailwind css e Trello.
 -   🌈 I’m currently learning *ReactJS/NextJS* and *Swift*
 
 ## Mais 
