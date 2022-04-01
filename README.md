@@ -24,7 +24,7 @@
 -   👨‍Henrique Wagner
 -   📍 From RS living in Caxias do Sul 
 -   💻 Experience with  C# , C++ ,Python, Flutter, HTML, CSS e JS.
--   🌈 I’m currently learning *ReactJS*
+-   🌈 I’m currently learning *ReactJS/NextJS* and *Swift*
 
 ## Mais 
 
