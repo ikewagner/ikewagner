@@ -40,6 +40,10 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ikewagner&theme=dark&hide_border=true" />
   <img width="150" src="https://s2.loli.net/2022/06/25/I1xg79CGyHZcTJh.png" />
 </div>
+ 
+ <br>
+
+<div align="center"> <img src="https://metrics.lecoq.io/ikewagner?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai"> </div>  
 
 <br>
 
