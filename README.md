@@ -31,7 +31,7 @@
 
 
 
-## Mais Sobre
+## More about
 
 <div align="center">
 
