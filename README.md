@@ -43,7 +43,7 @@
  
  <br>
 
-<div align="center"> <img src="https://metrics.lecoq.io/ikewagner?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai"> </div>  
+<img src="https://metrics.lecoq.io/ikewagner?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai">
 
 <br>
 
