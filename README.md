@@ -18,18 +18,15 @@
 
 ![enter image description here](https://github-readme-stats.vercel.app/api/top-langs/?username=ikewagner&&langs_count=8&layout=compact&theme=dracula)
 
-![enter image description here](https://github-readme-stats.vercel.app/api?username=ikewagner&show_icons=true&theme=dracula)
+
 
 </div>
 
 # About
 
 -   📍 From RS living in Caxias do Sul 
--   💻 Experience with  C#, C++, Python, Java, Flutter, HTML/CSS, JavaScript, MVC, Next.js, bootstrap, Visual Studio, SQL Server, Tailwind css e Trello.
--   🌈 I’m currently learning *ReactJS/NextJS* and *Swift*
-
-
-
+-   💻 Experience with  C#, C++, Python, HTML/CSS, JavaScript, MVC, Next.js, React.JS, bootstrap , Tailwind css.
+-   🌈 I’m currently learning *React Native*
 
 ## More about
 
@@ -42,10 +39,6 @@
 </div>
  
  <br>
-
-<img src="https://metrics.lecoq.io/ikewagner?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai">
-
-<br>
 
 <h1>Qr code</h1>
 
