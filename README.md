@@ -25,7 +25,7 @@
 # About
 
 -   📍 From RS living in Caxias do Sul 
--   💻 Experience with  C#, C++, Python, HTML/CSS, JavaScript, MVC, Next.js, React.JS, bootstrap , Tailwind css.
+-   💻 Experience with  C#, C++, Python, HTML/CSS, JavaScript, Next.js, AngularJS, bootstrap , Tailwind css.
 -   🌈 I’m currently learning *React Native*
 
 ## More about
