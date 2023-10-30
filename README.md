@@ -7,10 +7,9 @@
 
 <div align="center">
 <a>
- <a href="https://www.linkedin.com/in/henrique-wagner-061515137/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
+ <a href="https://www.linkedin.com/in/henrique-wagner-061515137/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 <a href="https://www.instagram.com/ikewagner_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
 <a href="https://twitter.com/_ikewagner"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></img></a>
-</a>
 </div>
 <br>
 
@@ -22,21 +21,33 @@
 
 </div>
 
-# About
+## 🌟 Experience 🌟
 
--   📍 From RS living in Caxias do Sul 
--   💻 Experience with  C#, C++, Python, HTML/CSS, JavaScript, Next.js, AngularJS, bootstrap , Tailwind css.
--   🌈 I’m currently learning *React Native*
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?logo=firebase&style=for-the-badge)
+![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 
 ## More about
 
 <div align="center">
 
-<div align="center">
-  <img width="150" src="https://s2.loli.net/2022/06/25/54yrvuoPcIQMGi2.png" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ikewagner&theme=dark&hide_border=true" />
-  <img width="150" src="https://s2.loli.net/2022/06/25/I1xg79CGyHZcTJh.png" />
-</div>
+
+![Status Lelepg](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ikewagner&theme=nord_dark) 
+
+ 
+![Github Trophies](https://github-profile-trophy.vercel.app/?username=ikewagner&theme=nord&column=6&row=1&margin-w=10)
+ 
+
  
  <br>
 
