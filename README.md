@@ -1,7 +1,14 @@
 
 <div align="center">
 <h1>Welcome to My Github!</h1>
+
+
+<img width="1000" alt="header_1" src="https://github.com/ikewagner/ikewagner/assets/25329337/d945ed58-7c7b-4427-add7-53c9f6acafbb">
+
+
 </div>
+
+<br>
 
 <img src="https://user-images.githubusercontent.com/102333181/183000071-0c8845b5-e71b-4c74-8912-05e3145f3fa1.png" alt="Brazil's flag" width="40">
 
