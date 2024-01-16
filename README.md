@@ -64,10 +64,6 @@ Hello! I'm a Fullstack developer who fell in love with the world of Development.
  
  <br>
 
-<h1>Qr code</h1>
-
-![enter image description here](https://dyn-qrcode.vercel.app/api?url=https://github.com/ikewagner)
-
 ![](https://komarev.com/ghpvc/?username=ikewagner&color=blue)
 
 </div>
