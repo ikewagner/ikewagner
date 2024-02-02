@@ -57,7 +57,7 @@ Hello! I'm a Fullstack developer who fell in love with the world of Development.
 <div align="center">
 
 
-![Status Lelepg](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ikewagner&theme=nord_dark) 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ikewagner&theme=tokyonight&background=000000)](https://git.io/streak-stats)
 
  
 ![Github Trophies](https://github-profile-trophy.vercel.app/?username=ikewagner&theme=nord&column=6&row=1&margin-w=10)
