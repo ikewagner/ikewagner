@@ -12,11 +12,11 @@
 
 <img src="https://user-images.githubusercontent.com/102333181/183000071-0c8845b5-e71b-4c74-8912-05e3145f3fa1.png" alt="Brazil's flag" width="40">
 
-Olá! Sou um desenvolvedor Fullstack que se apaixonou pelo mundo do Desenvolvimento. Com vasta experiência em linguagens `HTML`, `TypeScript` , `Nex.js` , `Node.js`, `Flutter`, `React Native`, `Angular` e `Progress Open Edge 4GL`, tenho trabalhado incansavelmente para me aprimorar. Além disso, já atuei como Analista de Suporte nível 2, o que me proporcionou uma compreensão mais ampla do universo de TI e da importância da qualidade e eficiência no desenvolvimento de soluções. Vamos construir algo juntos?
+Olá! Sou um desenvolvedor Fullstack que se apaixonou pelo mundo do Desenvolvimento. Com vasta experiência em linguagens `HTML`, `TypeScript` , `Next.js` , `Node.js`, `Flutter`, `React Native`, `Angular` e `Progress Open Edge 4GL`, tenho trabalhado incansavelmente para me aprimorar. Além disso, já atuei como Analista de Suporte nível 2, o que me proporcionou uma compreensão mais ampla do universo de TI e da importância da qualidade e eficiência no desenvolvimento de soluções. Vamos construir algo juntos?
 
 <img src="https://user-images.githubusercontent.com/102333181/183000154-724b273a-f987-4128-88c0-0edc3b809bde.png" alt="United states's flag" width="40">
 
-Hello! I'm a Fullstack developer who fell in love with the world of Development. With extensive experience in  `HTML`, `TypeScript` , `Nex.js` , `Node.js`, `Flutter`, `React Native`, `Angular` e `Progress Open Edge 4GL`, languages, I have worked tirelessly to improve myself. Furthermore, I have worked as a level 2 Support Analyst, which gave me a broader understanding of the IT universe and the importance of quality and efficiency in developing solutions. Let's build something together?
+Hello! I'm a Fullstack developer who fell in love with the world of Development. With extensive experience in  `HTML`, `TypeScript` , `Next.js` , `Node.js`, `Flutter`, `React Native`, `Angular` e `Progress Open Edge 4GL`, languages, I have worked tirelessly to improve myself. Furthermore, I have worked as a level 2 Support Analyst, which gave me a broader understanding of the IT universe and the importance of quality and efficiency in developing solutions. Let's build something together?
 
 
 <br>
